@@ -15,6 +15,4 @@ APP_PORT=8000
 3. Run app: `uvicorn src.api.app:app --reload --host 0.0.0.0 --port 8000`
 4. Open API docs at http://127.0.0.1:8000/docs
 
-See `docs/` and `notebooks/demo_notebook.ipynb` for demo flows.
-
 
